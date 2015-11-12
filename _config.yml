@@ -1,0 +1,23 @@
+name: Dylan Martin Photography
+favicon: null
+layout_spectrum: 0.7295788230840117
+typography_spectrum: 0.5602611736394465
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6515145460143685
+  lightness: 0.5526699831243604
+  saturation: 0.054265606217086315
+  rhythmicContrast: 0.8849774128757417
+purpose: []
